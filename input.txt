@@ -1,0 +1,288 @@
+class #class1 [ 
+   #i1 < int >, #i2 < double >.
+].
+
+Start:-
+[ 
+  
+  class< #class1 > #aaabb (1,1.5).
+    
+  Declaring $int < int > == 5.
+  
+  Declaring $Am2 < int >.
+  Declaring $AM2 < double >, $Bm3 < string >.
+  Declaring $AM2 < int > == 2, $ms3 < string >.
+  Declaring $CD3< int > == 3, $AbCd4069< int > == 690.
+  Declaring $Un< double > == 3.
+  Declaring $a1< int > == 1, $a2< double > == 1.5346, $a3< string > == 'hello'+'world'. 
+  
+  print($a3).
+  print($AbCd4069).
+  print($a2).
+  $Bm3 == 'bye'.
+  print($Bm3).
+  $Am2 == 1, $AM2 == 2.5, $ms3 == 'HELLO' .
+  print($Am2).
+   print($AM2).
+  print($ms3).
+  Declaring array < int > $Az3[10], array < double > $tf2[10].
+  $Az3[1]==3, $tf2[0] == 1.5.
+  $tf2[1] == 2.
+  $Az3[0] == 4.
+
+  $tf2[2] == array $Az3[0].
+
+  print(array $tf2[2]). 
+
+  print(1+3).
+
+  print($a3+$ms3).
+
+  print( 1.5+2).
+
+  print($CD3+2).
+
+  print($CD3+1.5).
+
+  print(5-2).
+  
+  print(5-2.5). print(2.5-0.5).  
+  Declaring #ab < int >, #bc < double >.
+  #ab == 1+2, #bc == 1 + 2.5.
+  print(#ab).
+  print(#bc).
+  #bc == #bc + #ab + 3.
+  print(#bc).
+  #bc == #bc - #ab.
+  print(#bc). 
+
+  #ab == 1*2, #bc == 1.0*2.5.
+  print(#ab).
+  print(#bc).
+  #ab == #ab*#ab.
+   #bc == #ab * #bc.
+  print(#ab).
+  print(#bc).
+
+  #bc == #bc / #ab.
+  #ab == #ab / 2.
+  print(#bc).
+  print(#ab).
+  print(2.5 ^^ 2).
+  print(#ab ^^ 2).
+  print(#bc ^^ #ab).
+  #bc == log(2).
+  print(#bc).
+  #bc == log(2.9).
+  print(#bc).
+  #bc == log(#ab).
+  print(#bc).
+ #bc == log(#bc).
+  print(#bc).
+  print(log(#ab)).
+  #bc == sin(#bc).
+  print(#bc).
+  #bc == sin(#bc).
+  print(#bc).
+ #bc == sin(#bc).
+  print(#bc).
+
+  print(sin(#bc)).
+
+  
+  print(3 >> 2).
+  
+  print(1 >> 2).
+
+  print(1 << 2).
+  
+  print(3 << 2).
+
+
+  print('ab' >> 'AB').
+  
+
+  print('ab' >= 'ab').
+
+  print('ab'<< 'AB').
+
+  print(4 >= 2).
+
+  
+  print('ab' <= 'Ab').
+
+  print(2.5<=3.0).
+
+  print(1 <= 2).
+
+  print(2.5 >> 1.0).
+
+  print(2.5 << 10.9).
+
+  print(1=1).
+
+  print(2.5=2.5).
+
+ print('a' = 'a').
+
+ print('a' = 'A').
+ print(2.5=3.5).
+
+ print(1=2).
+
+ Declaring #x< int >.
+ #x == 3 %% 2.
+
+ print(#x).
+
+ print(3%%2).
+ 
+ print(gcd(3,6)).
+
+ #x == gcd(12,6).
+
+ print(lcm(3,6)).
+
+ #x == lcm(12,6).
+
+ print(#x).
+
+ Declaring #b1 < int >, #b2 < double >, #b3 < string >.
+
+ 
+ take #b2 == input().
+
+ take #b1 == input().
+
+ take #b3 == input().
+
+ Declaring array < int > #d1[100], array < double > #d2[10].
+
+ 
+  Declaring #in < int >.
+  #in == 0.
+  
+  
+  for(#in, 5, 1)[
+   take array #d1[#in] == input().
+  ]
+  
+  
+   
+   #in == 0.
+   for(#in, 5, 1)[
+   take array #d2[#in] == input().
+  ]
+  #in == 0.
+  for(#in, 5, 1)[
+	print(#d1[#in]).
+ ]
+
+  for(#in, 5, 1)[
+	print(#d2[#in]).
+ ]
+ #in == 4.
+ Declaring #e1 < int >, #e2 < int >.
+ while(#in---)[
+	#e1 == input().
+	#e2 == input().
+	print(#e1%%#e2). 	    
+ ]  
+
+
+ print(#e1).
+
+ print(#e1+#e2). 
+
+ #in == 3.
+
+ do[
+  #e1 == input().
+  print(#e1).
+  ]while(#in---).
+  
+
+  take #in == input().
+
+  if(#in%%2=1)[
+      print('OddNumber').
+  ]
+  else [
+ 	print('EvenNumber'). 
+ ]
+
+
+  Declaring #mark < int >.
+
+  take #mark == input().
+
+  
+  if(#mark>=90)[
+      print('A').
+  ]
+  else if(#mark>=80)[
+ 	print('B'). 
+ ]
+  else if(#mark>=70)[
+ 	print('C'). 
+ ]
+  else if(#mark>=60)[
+ 	print('D'). 
+ ]
+  else if(#mark>=50)[
+ 	print('E'). 
+ ]
+  else [
+ 	print('Failed'). 
+ ]
+  
+  take #in == input().
+    
+  switch (#in%%2=1) : print('OddNumber'). 
+  default : print('EvenNumber').     
+ 
+  take #mark == input().
+
+  switch (#mark>=90) : print('A').
+  case (#mark>=80) : print('B').
+  case (#mark>=70) : print('C').
+  case (#mark>=60) : print('D').
+  default : print('Failed').
+
+  !! single line comment
+
+   ! mul
+    ti
+    line
+    !
+  
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

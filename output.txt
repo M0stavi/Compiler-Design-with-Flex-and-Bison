@@ -1,0 +1,444 @@
+Values assigned to class #class1 variable #aaabb are 1 and 1.50000
+Valid declaration statement
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $int is 1
+type of constant is 1
+value of constant is: 5
+newly declared variable: $int
+Hash value of newly declared variable $int is 1580
+Assignment successfull
+Assigned value for variable $int: 5
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: $Am2
+Hash value of newly declared variable $Am2 is 968
+The type of the variable is 1
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: $AM2
+Hash value of newly declared variable $AM2 is 840
+The type of the variable is 2
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: $Bm3
+Hash value of newly declared variable $Bm3 is 978
+The type of the variable is 3
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion with assignment
+Variable already declared
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: $ms3
+Hash value of newly declared variable $ms3 is 1088
+The type of the variable is 3
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $CD3 is 1
+type of constant is 1
+value of constant is: 3
+newly declared variable: $CD3
+Hash value of newly declared variable $CD3 is 816
+Assignment successfull
+Assigned value for variable $CD3: 3
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $AbCd4069 is 1
+type of constant is 1
+value of constant is: 690
+newly declared variable: $AbCd4069
+Hash value of newly declared variable $AbCd4069 is 8900
+Assignment successfull
+Assigned value for variable $AbCd4069: 690
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $Un is 2
+type of constant is 1
+value of constant is: 3
+Invalid type!
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $a1 is 1
+type of constant is 1
+value of constant is: 1
+newly declared variable: $a1
+Hash value of newly declared variable $a1 is 392
+Assignment successfull
+Assigned value for variable $a1: 1
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $a2 is 2
+type of constant is 2
+value of constant is: 1.53460
+newly declared variable: $a2
+Hash value of newly declared variable $a2 is 396
+Assignment successfull
+Assigned value for variable $a2: 1.53460
+lower most declaration stage
+Declaraion with assignment
+Inside assignment operation when declared
+type of newly declared variable: $a3 is 3
+type of constant is 3
+value of constant is: helloworld
+newly declared variable: $a3
+Hash value of newly declared variable $a3 is 400
+Assignment successfull
+Assigned value for variable $a3: helloworld
+All Declaraions Successful
+Valid declaration statement
+Inside print operation
+The value of  $a3 is: helloworld
+Inside print operation
+The value of  $AbCd4069 is: 690
+Inside print operation
+The value of  $a2 is: 1.53460
+Assignment without Declaraion
+Assigned value for variable $Bm3 is bye
+Inside print operation
+The value of  $Bm3 is: bye
+Assignment without Declaraion
+Assigned value for variable $Am2 is 1
+Assignment without Declaraion
+Assigned value for variable $AM2 is 2.50000
+Assignment without Declaraion
+Assigned value for variable $ms3 is HELLO
+Inside print operation
+The value of  $Am2 is: 1
+Inside print operation
+The value of  $AM2 is: 2.50000
+Inside print operation
+The value of  $ms3 is: HELLO
+lower most declaration stage
+Declaraion of array
+newly declared array: $Az3
+Hash value of newly declared variable $Az3 is 1028
+The type of the variable is 1
+lower most declaration stage
+Declaraion of array
+newly declared array: $tf2
+Hash value of newly declared variable $tf2 is 1042
+The type of the variable is 2
+All Declaraions Successful
+Valid declaration statement
+Inside array assignment
+Value assigned to array $Az3 at index 1: 0
+Inside array assignment
+Value assigned to array $tf2 at index 0: 1.50000
+Inside array assignment
+Value assigned to array $tf2 at index 1: 2.00000
+Inside array assignment
+Value assigned to array $Az3 at index 0: 0
+Inside array assignment
+Value assigned to array $tf2 at index 2: 4.00000
+Inside print operation
+The value of  $tf2 is: 4.00000
+Inside print operation
+The value of  addition expression is: 4
+Inside print operation
+The value of  addition expression is: helloworldHELLO
+Inside print operation
+The value of  addition expression is: 3.50000
+Inside print operation
+The value of  addition expression is: 5
+Inside print operation
+The value of  addition expression is: 4.50000
+Inside print operation
+The value of  subtraction expression is: 3
+Inside print operation
+The value of  subtraction expression is: 2.50000
+Inside print operation
+The value of  subtraction expression is: 2.00000
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #ab
+Hash value of newly declared variable #ab is 588
+The type of the variable is 1
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #bc
+Hash value of newly declared variable #bc is 594
+The type of the variable is 2
+All Declaraions Successful
+Valid declaration statement
+Assignment without Declaraion
+Assigned value for variable #ab is 3
+Assignment without Declaraion
+Assigned value for variable #bc is 3.50000
+Inside print operation
+The value of  #ab is: 3
+Inside print operation
+The value of  #bc is: 3.50000
+Assignment without Declaraion
+Assigned value for variable #bc is 9.50000
+Inside print operation
+The value of  #bc is: 9.50000
+Assignment without Declaraion
+Assigned value for variable #bc is 6.50000
+Inside print operation
+The value of  #bc is: 6.50000
+Assignment without Declaraion
+Assigned value for variable #ab is 2
+Assignment without Declaraion
+Assigned value for variable #bc is 2.50000
+Inside print operation
+The value of  #ab is: 2
+Inside print operation
+The value of  #bc is: 2.50000
+Assignment without Declaraion
+Assigned value for variable #ab is 4
+Assignment without Declaraion
+Assigned value for variable #bc is 10.00000
+Inside print operation
+The value of  #ab is: 4
+Inside print operation
+The value of  #bc is: 10.00000
+Assignment without Declaraion
+Assigned value for variable #bc is 2.50000
+Assignment without Declaraion
+Assigned value for variable #ab is 2
+Inside print operation
+The value of  #bc is: 2.50000
+Inside print operation
+The value of  #ab is: 2
+Inside print operation
+The value of  power expression is: 6.25000
+Inside print operation
+The value of  power expression is: 4
+Inside print operation
+The value of  power expression is: 6.25000
+Assignment without Declaraion
+Assigned value for variable #bc is 0.69315
+Inside print operation
+The value of  #bc is: 0.69315
+Assignment without Declaraion
+Assigned value for variable #bc is 1.06471
+Inside print operation
+The value of  #bc is: 1.06471
+Assignment without Declaraion
+Assigned value for variable #bc is 0.69315
+Inside print operation
+The value of  #bc is: 0.69315
+Assignment without Declaraion
+Assigned value for variable #bc is -0.36651
+Inside print operation
+The value of  #bc is: -0.36651
+Inside print operation
+The value of  log operation expression is: 0.69315
+Assignment without Declaraion
+Assigned value for variable #bc is -0.35836
+Inside print operation
+The value of  #bc is: -0.35836
+Assignment without Declaraion
+Assigned value for variable #bc is -0.35074
+Inside print operation
+The value of  #bc is: -0.35074
+Assignment without Declaraion
+Assigned value for variable #bc is -0.34359
+Inside print operation
+The value of  #bc is: -0.34359
+Inside print operation
+The value of  sin operation expression is: -0.33687
+Inside print operation
+The value of  Greater than expression is: True
+Inside print operation
+The value of  Greater than expression is: False
+Inside print operation
+The value of  Less than expression is: True
+Inside print operation
+The value of  Less than expression is: False
+Inside print operation
+The value of  Greater than expression is: True
+Inside print operation
+The value of  Greater equals than expression is: True
+Inside print operation
+The value of  Less than expression is: False
+Inside print operation
+The value of  Greater equals than expression is: True
+Inside print operation
+The value of  Less equals than expression is: False
+Inside print operation
+The value of  Less equals than expression is: True
+Inside print operation
+The value of  Less equals than expression is: True
+Inside print operation
+The value of  Greater than expression is: True
+Inside print operation
+The value of  Less than expression is: True
+Inside print operation
+The value of  Equals expression is: True
+Inside print operation
+The value of  Equals expression is: True
+Inside print operation
+The value of  Equals expression is: True
+Inside print operation
+The value of  Equals expression is: False
+Inside print operation
+The value of  Equals expression is: False
+Inside print operation
+The value of  Equals expression is: False
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #x
+Hash value of newly declared variable #x is 242
+The type of the variable is 1
+All Declaraions Successful
+Valid declaration statement
+Assignment without Declaraion
+Assigned value for variable #x is 1
+Inside print operation
+The value of  #x is: 1
+Inside print operation
+The value of  MOD operation is: 1
+Inside print operation
+The value of  GCD operation is: 3
+Assignment without Declaraion
+Assigned value for variable #x is 6
+Inside print operation
+The value of  LCM operation is: 6
+Assignment without Declaraion
+Assigned value for variable #x is 12
+Inside print operation
+The value of  #x is: 12
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #b1
+Hash value of newly declared variable #b1 is 394
+The type of the variable is 1
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #b2
+Hash value of newly declared variable #b2 is 398
+The type of the variable is 2
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #b3
+Hash value of newly declared variable #b3 is 402
+The type of the variable is 3
+All Declaraions Successful
+Valid declaration statement
+Inside input operation
+Input taken for variable #b2 is: 1.00000
+Inside input operation
+Input taken for variable #b1 is: 1
+Inside input operation
+Input taken for variable #b3 is: 1
+lower most declaration stage
+Declaraion of array
+newly declared array: #d1
+Hash value of newly declared variable #d1 is 398
+The type of the variable is 1
+lower most declaration stage
+Declaraion of array
+newly declared array: #d2
+Hash value of newly declared variable #d2 is 402
+The type of the variable is 2
+All Declaraions Successful
+Valid declaration statement
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #in
+Hash value of newly declared variable #in is 652
+The type of the variable is 1
+All Declaraions Successful
+Valid declaration statement
+Assignment without Declaraion
+Assigned value for variable #in is 0
+Value assigned for array #d1 at index 0 is: 1
+Value assigned for array #d1 at index 1 is: 1
+Value assigned for array #d1 at index 2 is: 1
+Value assigned for array #d1 at index 3 is: 1
+Value assigned for array #d1 at index 4 is: 1
+Assignment without Declaraion
+Assigned value for variable #in is 0
+Value assigned for array #d2 at index 0 is: 1.00000
+Value assigned for array #d2 at index 1 is: 1.00000
+Value assigned for array #d2 at index 2 is: 1.00000
+Value assigned for array #d2 at index 3 is: 1.00000
+Value assigned for array #d2 at index 4 is: 1.00000
+Assignment without Declaraion
+Assigned value for variable #in is 0
+The value of array #d1 at index 0 id: 1
+The value of array #d1 at index 1 id: 1
+The value of array #d1 at index 2 id: 1
+The value of array #d1 at index 3 id: 1
+The value of array #d1 at index 4 id: 1
+The value of array #d2 at index 0 id: 1.00000
+The value of array #d2 at index 1 id: 1.00000
+The value of array #d2 at index 2 id: 1.00000
+The value of array #d2 at index 3 id: 1.00000
+The value of array #d2 at index 4 id: 1.00000
+Assignment without Declaraion
+Assigned value for variable #in is 4
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #e1
+Hash value of newly declared variable #e1 is 400
+The type of the variable is 1
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #e2
+Hash value of newly declared variable #e2 is 404
+The type of the variable is 1
+All Declaraions Successful
+Valid declaration statement
+Inside while
+The value of the expression is: 0
+The value of the expression is: 0
+The value of the expression is: 0
+The value of the expression is: 0
+While execution end
+Inside print operation
+The value of  #e1 is: 1
+Inside print operation
+The value of  addition expression is: 2
+Assignment without Declaraion
+Assigned value for variable #in is 3
+Do-While execution start
+The value of the expression is 1
+The value of the expression is 1
+The value of the expression is 1
+The value of the expression is 1
+Inside input operation
+Input taken for variable #in is: 1
+Inside if block
+OddNumber
+lower most declaration stage
+Declaraion without assignment
+newly declared variable: #mark
+Hash value of newly declared variable #mark is 3232
+The type of the variable is 1
+All Declaraions Successful
+Valid declaration statement
+Inside input operation
+Input taken for variable #mark is: 1
+Inside else block
+Failed
+Inside input operation
+Input taken for variable #in is: 1
+Inside switch block
+OddNumber
+Inside input operation
+Input taken for variable #mark is: 1
+Inside case block
+Failed
+This is single line comment
+This is multiple line comment
+Compilation Successful

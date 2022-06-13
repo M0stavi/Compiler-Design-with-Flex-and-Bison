@@ -1,0 +1,4 @@
+bison -d mn.y
+flex mn.l
+gcc lex.yy.c mn.tab.c -o ex
+ex
